@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Felipe Tsuyoshi Suzuki
-- 👀 I’m interested in Js
-- 🌱 I’m currently learning html, css, Js, and also C in college ifsp
+- 👀 I’m interested in Kotlin
+- 🌱 I’m currently learning mobile 
+development
 - 📫 How to reach me felipetsuyoshisuzuki@gmail.com
 
