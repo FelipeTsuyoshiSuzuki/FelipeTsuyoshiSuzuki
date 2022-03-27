@@ -2,5 +2,5 @@
 - 👀 I’m interested in Kotlin
 - 🌱 I’m currently learning mobile 
 development
-- 📫 How to reach me felipetsuyoshisuzuki@gmail.com
+- 📫 How to reach me ftsuyoshisuzuki@gmail.com
 
