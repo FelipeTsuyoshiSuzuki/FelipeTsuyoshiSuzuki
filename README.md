@@ -1,6 +1,2 @@
-- 👋 Hi, I’m Felipe Tsuyoshi Suzuki
-- 👀 I’m interested in Kotlin
-- 🌱 I’m currently learning mobile 
-development
-- 📫 How to reach me ftsuyoshisuzuki@gmail.com
-
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=/FelipeTsuyoshiSuzuki&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeTsuyoshiSuzuki&repo=github-readme-stats)](https://github.com/FelipeTsuyoshiSuzuki/github-readme-stats)
