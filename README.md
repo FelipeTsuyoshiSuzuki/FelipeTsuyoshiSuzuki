@@ -12,7 +12,6 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=for-the-badget&logo=androidstudio)
 ![Git](https://img.shields.io/badge/-git-05122A?style=for-the-badget&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 
 ---
 
